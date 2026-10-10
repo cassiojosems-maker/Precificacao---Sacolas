@@ -1,0 +1,8 @@
+{
+  "name": "PrecificaPack — Precificação & Perícia Financeira de Sacolas",
+  "description": "Sistema avançado de engenharia de custos industriais, precificação comercial de sacolas de papel e plástico, rateio de despesas fixas, frete e relatórios financeiros periciais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
